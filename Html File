@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Message system</h2>
+
+<form action="/save">
+  <label for="msg">Message :</label><br>
+  <input type="text" id="msg" name="msg" value="..."><br>
+  <input type="submit" value="Submit">
+</form>
+
+
+</body>
+</html>
